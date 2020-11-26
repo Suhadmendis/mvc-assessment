@@ -14,10 +14,12 @@ Please download zip file and paste it in htdocs to run the program.
 
 
 Please find the following files
+-  Model - application > models > Model_unit.php
+-  View - application > views > units.php
+-  Controller - application > controllers > Units.php
 
-Model - application > models > Model_unit.php
-View - application > views > units.php
-Controller - application > controllers > Units.php
+
+
 
 
 
