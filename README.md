@@ -6,9 +6,9 @@ Front end frameworks : Tailwind CSS, Vue.js
 Back end framework : CodeIgniter 3.1
 
 
-********************
-Project Installation
-********************
+
+# Project Installation
+
 
 Please download zip file and paste it in htdocs to run the program. 
 
@@ -23,9 +23,9 @@ Controller - application > controllers > Units.php
 
 
 
-****************************
-CodeIgniter 3.1 Installation
-****************************
+
+# CodeIgniter 3.1 Installation
+
 
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
@@ -34,9 +34,9 @@ of the CodeIgniter User Guide.
 
 
 
-*******************
-Server Requirements
-*******************
+
+# Server Requirements
+
 
 Codeigniter version - 3.1.11
 
