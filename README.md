@@ -2,8 +2,8 @@
 
 This project is developed based on the following technologies
 
-Front end frameworks : Tailwind CSS, Vue.js
-Back end framework : CodeIgniter 3.1
+-  Front end frameworks : Tailwind CSS, Vue.js
+-  Back end framework : CodeIgniter 3.1
 
 
 
